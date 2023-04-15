@@ -1,7 +1,7 @@
 # get two integer parameters
 # return sum
 def plus(x, y):
-    return x+y
+    return x-y
 
 # main function
 def main():
